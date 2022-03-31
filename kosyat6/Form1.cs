@@ -36,7 +36,7 @@ namespace kosyat6
         private void button2_Click(object sender, EventArgs e)
         {
             float x1, x2, x3, x4;
-            float y1, y2, y3, y;
+            float y1, y2, y3, y4;
             x1 = Convert.ToSingle(xx1.Text);
             y1 = Convert.ToSingle(yy1.Text);
             x2 = Convert.ToSingle(xx2.Text);
@@ -44,7 +44,7 @@ namespace kosyat6
             x3 = Convert.ToSingle(xx3.Text);
             y3 = Convert.ToSingle(yy3.Text);
             x4 = Convert.ToSingle(xx4.Text);
-            x4 = Convert.ToSingle(yy4.Text);
+            y4 = Convert.ToSingle(yy4.Text);
 
 
         }
